@@ -2,9 +2,11 @@
 
 An intranet is a private network that is used within an organization to securely share information, resources, and services among its members. While the internet is open to the public, an intranet is accessible only to authorized users.
 
-An intranet provides a centralized source for company, resources, and streamline information within the organization. Different departments take care of certain parts of the intranet. IT manages the technical aspects, the HR/communications team handles content and departments leads manage specific content for their team.
+An intranet provides a centralized source for company, resources, and streamline information within the organization. Different departments take care of certain parts of the intranet.
 
-https://accountingmarketing.org/beginners-guide-to-an-intranet/
+IT manages the technical aspects, the HR/communications team handles content and departments leads manage specific content for their team.
+
+[Link to website] (https://accountingmarketing.org/beginners-guide-to-an-intranet/)
 
 Step by step instructions:
 
