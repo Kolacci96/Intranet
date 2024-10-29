@@ -10,7 +10,7 @@ Different departments take care of certain parts of the intranet and decide what
 
 IT manages the technical aspects, the HR/communications team handles content and departments leads manage specific content for their team.
 
-[Link] (https://accountingmarketing.org/beginners-guide-to-an-intranet/)
+[Link](https://accountingmarketing.org/beginners-guide-to-an-intranet/)
 
 ## Step by step instructions
 
@@ -33,4 +33,4 @@ Set up navigational structure so it’s easier for users to find the content the
 Create a hub where users can easily navigate to the content they want to access
 
 
-[Link] (https://support.intranetconnections.com/hc/en-us/articles/360006714473-Planning-Your-Intranet) 
+[Link](https://support.intranetconnections.com/hc/en-us/articles/360006714473-Planning-Your-Intranet) 
